@@ -51,7 +51,7 @@ class Student extends Person implements Manageable {
 }
 
 // Main Class
-public class Main {
+public class Interface{
     public static void main(String[] args) {
 
         Student s = new Student("Rahul", 20);
